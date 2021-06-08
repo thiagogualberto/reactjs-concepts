@@ -1,0 +1,12 @@
+{
+  "name": "reactjs-concepts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/thiagogualberto/reactjs-concepts.git",
+  "author": "Thiago Gualberto <thiago.gou@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
